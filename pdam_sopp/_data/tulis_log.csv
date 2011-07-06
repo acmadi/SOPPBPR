@@ -1,0 +1,24 @@
+2011-03-24 11:56:05;11032411560571023;admin;192.168.5.18;1146;Table 'alir_sopp.v_menu_root' doesn't exist;SELECT *FROM v_menu_root
+2011-07-05 04:28:55;_TOKN;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: NO);0
+2011-07-05 04:32:46;_TOKN;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: NO);0
+2011-07-05 04:32:54;_TOKN;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: NO);0
+2011-07-05 08:17:12;11070508170798822;admin;::1;1146;Table 'alir_sopp.tm_' doesn't exist;SELECT *FROM tm_ WHERE pel_no='000001'
+2011-07-05 08:29:56;11070508191708312;admin;::1;1142;TRIGGER command denied to user 'root'@'%' for table 'tm_rekening';CALL sopp_bayar_rek(@e_sts,'11070508191708312','0000001','P','44400','6--','000001','201009100004614','admin','::1')
+2011-07-05 10:14:41;11070510141727635;admin;::1;1142;TRIGGER command denied to user 'root'@'%' for table 'tm_rekening';CALL sopp_bayar_rek(@e_sts,'11070510141727635','0000001','P','44400','44400','000001','201009100004614','admin','::1')
+2011-07-06 12:27:16;11070612033931142;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 12:31:43;11070612033931142;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);tes
+2011-07-06 13:00:50;11070612033931142;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 13:04:22;11070612033931142;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 13:05:04;11070612033931142;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 13:05:07;11070612033931142;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 13:05:37;11070612033931142;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 13:08:06;11070612033931142;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 13:09:04;_TOKN;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 13:11:45;_TOKN;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 13:19:54;_TOKN;admin;::1;1045;Access denied for user 'root'@'localhost' (using password: YES);0
+2011-07-06 13:55:19;11070613545518874;admin;::1;000008;Cetak daftar tunggakan
+2011-07-06 14:03:33;11070613545518874;admin;::1;000008;Cetak daftar tunggakan;
+
+
+2011-07-08 14:24:21;11070814034327533;admin;::1;1
+2011-07-08 14:26:31;11070814034327533;admin;::1;000035;Cetak daftar tunggakan;1
